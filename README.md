@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/banner.png)]
+[![Yunji's GitHub Banner](./assets/banner.png)]
 
 [![Visits Badge](https://badges.pufler.dev/visits/yunjidev/yunjidev)](#)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Yunji_TV)
